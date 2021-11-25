@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ning Liu"
+title                    : "Lingguo Bu"
 title_separator          : "-"
-name                     : &name "Ning Liu"
-description              : &description "Medical data mining; medical text mining"
-url                      : https://liucsthu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Lingguo Bu"
+description              : &description ""
+url                      : https://bulingguo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "liucsthu/liucsthu.github.io"
+repository               : "bulingguo/bulingguo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ning Liu"
-  avatar           : "liun.png"
-  bio              : "Assistant Professor, School of Software, Shandong University"
+  name             : "Lingguo Bu"
+  avatar           : "xxx.png"
+  bio              : "Professor, C-FAIR, Shandong University"
   location         : "Jinan Shandong China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "liucsthu"
+  github           : "bulingguo"
   google_plus      :
   keybase          :
   instagram        :
