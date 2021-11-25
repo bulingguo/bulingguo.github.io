@@ -15,9 +15,13 @@ Research Interest
 
 
 [1]. Artificial Intelligence for Health 
+
 [2]. Brain Function Brain Cognition and Intelligent Rehabilitation Technology 
+
 [3]. Data Mining and Data Analysis 
+
 [4]. Research on Intelligent Product Design
+
 
 Email
 ======
