@@ -8,16 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ning Liu, an assistant professor in School of Software, Shandong University(Jinan Campus). Before that, I received my Ph.D. degree from Department of Computer Science and Technology, Tsinghua University in 2021, advised by Professor [Jianyong Wang](http://dbgroup.cs.tsinghua.edu.cn/wangjy/) (IEEE Fellow). In 2016, I received my bachelor's degree from Taishan Honors College, Shandong University, majoring in computer science and technology. For more details, please refer to my CV.
+I'm Lingguo Bu, a professor in C-FAIR, Shandong University(Jinan Campus). Before that, I worked as a Research Fellow in Nanyang Technological University （Singapore）With Prof. Chen Chun-Hsien. I received my Ph.D.(2018), Master (2012) and bachelor's (2009) degree from Shandong University. For more details, please refer to my CV.
 
 Research Interest 
 ======
 
-Medical data mining; Medical text mining; Deep learning; 
+
+[1]. Artificial Intelligence for Health 
+[2]. Brain Function Brain Cognition and Intelligent Rehabilitation Technology 
+[3]. Data Mining and Data Analysis 
+[4]. Research on Intelligent Product Design
 
 Email
 ======
-liu21cs@sdu.edu.cn  
+bulingguo@sdu.edu.cn  
 
 
 
