@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Taishan Honors College, Shandong University, Computer Science and Technology, 2012-2016
-* Ph.D in Department of computer and science, Tsinghua University,Computer Science and Technology, 2016-2021 
+* B.S. in School of Mechanical Engineering, Shandong University, Industrial Design, 2005-2009
+* M.S. in School of Mechanical Engineering, Shandong University, Design Science, 2009-2012
+* Ph.D in School of Mechanical Engineering, Shandong University,Industrial Design, 2014-2018 
 
 Work experience
 ======
-* Fall 2020: Research Assistant
-  * Baidu 
-  * Supervisor: Dawei Yin, Dehong Ma, Daiting Shi
+* Research Fellow
+  * Nanyang Technological University - NTU Singapore
+  * Supervisor: Prof. Chen Chun-Hsien
 
 
 Publications
@@ -33,9 +34,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
-======
-* Student Volunteer in ICDM 19
-* Reviewer of Journal of Software 
-* Reviewer of TKDD 
-* PC of KDD 21, ADS Track 
