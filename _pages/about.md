@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Lingguo Bu, a professor in C-FAIR, Shandong University(Jinan Campus). Before that, I worked as a Research Fellow in Nanyang Technological University （Singapore）With Prof. Chen Chun-Hsien. I received my Ph.D.(2018), Master (2012) and bachelor's (2009) degree from Shandong University. For more details, please refer to my CV.
+I'm Lingguo Bu, a professor (Qilu Young Scholar) in C-FAIR, Shandong University(Jinan Campus). Before that, I worked as a Research Fellow in Nanyang Technological University （Singapore）With Prof. Chen Chun-Hsien. I received my Ph.D.(2018), Master (2012) and bachelor's (2009) degree from Shandong University. For more details, please refer to my CV.
 
 Research Interest 
 ======
