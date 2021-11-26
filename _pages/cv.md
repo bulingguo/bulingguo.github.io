@@ -33,4 +33,8 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> 214ee39ffb8b8ce0b625f902e9bf75f6a97b067d
